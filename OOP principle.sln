@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "Polymorphis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composition", "Composition\Composition\Composition.csproj", "{E48D0923-E05D-49EE-B5DF-CE02E3325D34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface\Interface.csproj", "{4775A263-F7C5-453C-BF89-90978C40378C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Interface\Interface\Interface.csproj", "{4775A263-F7C5-453C-BF89-90978C40378C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependency Injection", " Dependency Injection\Dependency Injection\Dependency Injection.csproj", "{F06C9517-B291-4E44-95F6-6C115497CED8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{4775A263-F7C5-453C-BF89-90978C40378C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4775A263-F7C5-453C-BF89-90978C40378C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4775A263-F7C5-453C-BF89-90978C40378C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F06C9517-B291-4E44-95F6-6C115497CED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06C9517-B291-4E44-95F6-6C115497CED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06C9517-B291-4E44-95F6-6C115497CED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06C9517-B291-4E44-95F6-6C115497CED8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
